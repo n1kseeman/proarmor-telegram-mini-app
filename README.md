@@ -2,6 +2,8 @@
 
 Мобильное мини-приложение для Telegram-бота [@proarmorbot](https://t.me/proarmorbot). Проект статический: сборка и внешние зависимости не нужны.
 
+**Демо:** https://n1kseeman.github.io/proarmor-telegram-mini-app/
+
 ## Возможности
 
 - каталог ключевых услуг и фильтры;
